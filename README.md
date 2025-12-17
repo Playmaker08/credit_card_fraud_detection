@@ -29,13 +29,21 @@ Using a highly imbalanced real-world dataset (0.172% fraud rate), the system:
 
 ## Project Structure
 ├── Fraud1.ipynb # EDA & decision framing
+
 ├── Fraud2.ipynb # Baseline logistic regression
+
 ├── Fraud3.ipynb # XGBoost risk model
+
 ├── Fraud4.ipynb # Threshold optimization & decision policy
+
 ├── Fraud5.ipynb # Explainability (SHAP) & governance
+
 ├── xgb_test_scoring.csv
+
 ├── decision_policy_output.csv
+
 └── creditcard.csv
+
 
 ---
 
