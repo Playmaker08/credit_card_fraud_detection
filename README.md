@@ -101,7 +101,4 @@ Using a highly imbalanced real-world dataset (0.172% fraud rate), the system:
 
 ## Disclaimer
 This project is for educational and analytical purposes only.  
-It does not constitute a production fraud detection system.
-## Disclaimer
-This project is for educational and analytical purposes only.  
 It does not constitute a production fraud detection sys
